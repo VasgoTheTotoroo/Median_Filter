@@ -1,2 +1,2 @@
-# MedianFilter
-The goal was to use optimization technique to build a better median filter than OpenCV in C++.
+# Median filter optimization technique
+This project use optimization technique to build a fast median filter.
