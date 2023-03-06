@@ -1,2 +1,2 @@
-# Median filter optimization technique
-This project use optimization technique to build a fast median filter in C++.
+# Median filter optimization techniques
+This project uses optimization techniques to build a fast median filter in C++.
